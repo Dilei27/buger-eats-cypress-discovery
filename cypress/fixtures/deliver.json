@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Dilei Alves",
+        "cpf": "00000014141",
+        "email": "dilei@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Wilson Alves",
+        "cpf": "x0000014141AA",
+        "email": "wa@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Dilei Alves",
+        "cpf": "00000014141",
+        "email": "dilei.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
